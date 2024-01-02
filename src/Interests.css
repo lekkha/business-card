@@ -1,0 +1,14 @@
+.interest{
+    text-align: left;
+    padding: 0.5rem 1rem;
+    background-color: #1A1B21;
+    color: white;
+    margin-top: -0.4rem;
+}
+
+
+.interest > p {
+    padding-top: 0.5rem;
+    line-height: 1.3rem;
+    font-size:smaller;
+}
